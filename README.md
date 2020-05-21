@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## [Live Demo](https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/)
-- The map is hosted by GitHub and can be found at https://ageor7.github.io/leaflet-storymaps-with-google-sheets/
+- The map is hosted by GitHub and can be found at https://ageor7.github.io/ECI_Digital_Storytelling_2020/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1o7N0eJ7xoPNXQuo9yT-ZRt0fU9GEIMtIDpH8MmzhOzg/ 
 
 ## Create Your Own
