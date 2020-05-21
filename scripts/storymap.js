@@ -194,7 +194,10 @@ $(window).on('load', function() {
       }
 
       container
-        .append('<p class="chapter-header">' + c['Chapter'] + '</p>')
+  	    // ageor7 20200521 #1
+	      // was        .append('<p class="chapter-header">' + c['Chapter'] + '</p>')
+          .append('<p class="chapter-header"><a href = "' + c['Content Link'] + '" target="_blank">' + c['Chapter'] + '</a></p>')
+        //end ageor7
         .append(media ? mediaContainer : '')
         .append(media ? source : '')
         .append('<p class="description">' + c['Description'] + '</p>');
